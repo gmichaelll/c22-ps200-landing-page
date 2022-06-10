@@ -8,7 +8,7 @@ Capstone for Bangkit 2022
 </p>
 <p align="center">
 <img alt="Google Cloud" src="https://img.shields.io/badge/-Google%20Cloud-FFFFFF?logo=google-cloud&style=plastic"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootsrap-FFC300?logo=bootstrap&style=plastic"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-FFC300?logo=bootstrap&style=plastic"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/-Java%20Script-645803?logo=javaScript&style=plastic"/>
 </p>
 
