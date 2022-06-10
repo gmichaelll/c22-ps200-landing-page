@@ -1,10 +1,8 @@
-# c22-ps200-landing-page
-Static page for C22-PS200 capstone team
 <h1 align="center">
 Bangkit Team C22-PS200
 </h1>
 <p align="center">
-Capstone for Bangkit 2022
+Static Page for C22-PS200 TEAMS @ Bangkit 2022 
 </p>
 <p align="center">
 <img alt="Google Cloud" src="https://img.shields.io/badge/-Google%20Cloud-FFFFFF?logo=google-cloud&style=plastic"/>
@@ -33,4 +31,8 @@ Alzheimer sufferers have difficulties taking care of themselves and families of 
 
 - [Google Cloud Platform](https://cloud.google.com/gcp)
 - [Bootstrap](https://getbootstrap.com)
-- [JavaScript] (https://www.javascript.com)
+- [JavaScript](https://www.javascript.com)
+
+## WEB URL
+
+- [Static landing page](https://e-caretaker-c22-ps200.et.r.appspot.com)
