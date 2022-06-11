@@ -35,4 +35,4 @@ Alzheimer sufferers have difficulties taking care of themselves and families of 
 
 ## WEB URL
 
-- [Static landing page](https://e-caretaker-c22-ps200.et.r.appspot.com)
+- [Static landing page](https://carezheimer.et.r.appspot.com/#about)
